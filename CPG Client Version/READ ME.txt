@@ -1,0 +1,13 @@
+Thank You For Downloading!
+Enjoy and Create.
+
+Release Logs
+V1.0 {
+   - First Release
+}
+
+Known Bugs (Please Report them if you find any, thank you!) {
+   - Space symbol can be stored but not entered
+   - You have to install a world after creating it
+}
+
