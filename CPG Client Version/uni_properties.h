@@ -48,4 +48,13 @@ class HEX{
         void display_val();
 };
 
+class Point{
+    private:
+        int x;
+        int y;
+    public:
+        Point();
+        Point(int x, int y);
+};
+
 #endif
